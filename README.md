@@ -1,2 +1,2 @@
+![fra](fra.png)
 # frank-theme
-theme
